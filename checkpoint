@@ -1,0 +1,2 @@
+model_checkpoint_path: "my_mobilenet2.ckpt-713491"
+all_model_checkpoint_paths: "my_mobilenet2.ckpt-713491"
